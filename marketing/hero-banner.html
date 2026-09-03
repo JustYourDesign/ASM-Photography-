@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>ASM Photography — Wide Banner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Parisienne&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 100vw; height: 100vh; overflow: hidden; background: #0b0b0b; position: relative; }
+  body { font-family: 'Montserrat', sans-serif; }
+  .photo {
+    position: absolute; inset: 0;
+    background-image: url('/images/hero/hero-main.jpg');
+    background-size: cover; background-position: 68% 28%;
+  }
+  .scrim {
+    position: absolute; inset: 0;
+    background: linear-gradient(to right, rgba(11,11,11,0.92) 0%, rgba(11,11,11,0.72) 32%, rgba(11,11,11,0.15) 62%, rgba(11,11,11,0.35) 100%);
+  }
+  .content {
+    position: absolute; top: 0; bottom: 0; left: 5.7vw;
+    display: flex; flex-direction: column; justify-content: center;
+    max-width: 40vw;
+  }
+  .wordmark {
+    color: #f7f5f2; font-size: 1.05vw; font-weight: 600;
+    letter-spacing: 0.35em; margin-bottom: 2.1vw;
+  }
+  .eyebrow {
+    color: #c9b79c; font-size: 0.85vw; font-weight: 600;
+    letter-spacing: 0.4em; text-transform: uppercase; margin-bottom: 1.05vw;
+  }
+  .headline {
+    color: #f7f5f2; font-size: 3.35vw; font-weight: 700;
+    line-height: 1.02; letter-spacing: -0.01em; margin-bottom: 0.3vw;
+  }
+  .script {
+    font-family: 'Parisienne', cursive; color: #c9b79c;
+    font-size: 2.4vw; font-weight: 400; margin-bottom: 2.1vw;
+  }
+  .cta {
+    display: inline-flex; align-items: center; gap: 0.5vw;
+    background: #f7f5f2; color: #0b0b0b;
+    font-size: 0.78vw; font-weight: 600;
+    letter-spacing: 0.2em; text-transform: uppercase;
+    padding: 0.95vw 2vw; border-radius: 999px;
+    width: fit-content;
+  }
+</style>
+</head>
+<body>
+  <div class="photo"></div>
+  <div class="scrim"></div>
+  <div class="content">
+    <div class="wordmark">ASM PHOTOGRAPHY</div>
+    <div class="eyebrow">Our New Website Is Live</div>
+    <div class="headline">Capturing Stories</div>
+    <div class="script">that last forever</div>
+    <div class="cta">View the Site →</div>
+  </div>
+</body>
+</html>

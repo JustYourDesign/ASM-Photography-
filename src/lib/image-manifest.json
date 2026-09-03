@@ -1,0 +1,1142 @@
+{
+  "/images/about/about-portrait.jpg": {
+    "w": 3000,
+    "h": 3000
+  },
+  "/images/categories/fashion.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/categories/studio.jpg": {
+    "w": 1333,
+    "h": 2000
+  },
+  "/images/categories/weddings.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/engagements/01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/engagements/02.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/engagements/03.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/engagements/04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/engagements/05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/engagements/06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/engagements/07.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/engagements/08.jpg": {
+    "w": 1800,
+    "h": 1352
+  },
+  "/images/fashion/field-editorial/01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/field-editorial/02.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/field-editorial/03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/fashion/field-editorial/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/field-editorial/05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/tailored/01.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/fashion/tailored/02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/tailored/03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/tailored/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/tailored/05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/the-car-story/01.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/the-car-story/02.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/fashion/the-car-story/03.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/fashion/the-car-story/04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/the-car-story/05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/fashion/volume-i/01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-i/02.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-i/03.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-i/04.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-i/05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/volume-i/06.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/02.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/03.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/fashion/volume-ii/06.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/hero/hero-01.jpg": {
+    "w": 3200,
+    "h": 2136
+  },
+  "/images/hero/hero-02.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/hero/hero-03.jpg": {
+    "w": 3200,
+    "h": 2136
+  },
+  "/images/hero/hero-04.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/hero/hero-05.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/hero/hero-06.jpg": {
+    "w": 3200,
+    "h": 2136
+  },
+  "/images/home/cta.jpg": {
+    "w": 3200,
+    "h": 2136
+  },
+  "/images/home/experience-01.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/home/experience-02.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/home/experience-03.jpg": {
+    "w": 3200,
+    "h": 1800
+  },
+  "/images/home/experience-04.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/home/experience-05.jpg": {
+    "w": 3200,
+    "h": 2136
+  },
+  "/images/home/fashion-01.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/home/fashion-02.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/home/fashion-03.jpg": {
+    "w": 1335,
+    "h": 2000
+  },
+  "/images/home/fashion-04.jpg": {
+    "w": 1333,
+    "h": 2000
+  },
+  "/images/home/feature-01.jpg": {
+    "w": 3200,
+    "h": 2164
+  },
+  "/images/home/feature-02.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/home/feature-03.jpg": {
+    "w": 2000,
+    "h": 1244
+  },
+  "/images/home/feature-04.jpg": {
+    "w": 1331,
+    "h": 2000
+  },
+  "/images/home/studio-01.jpg": {
+    "w": 1331,
+    "h": 2000
+  },
+  "/images/home/studio-02.jpg": {
+    "w": 1334,
+    "h": 2000
+  },
+  "/images/home/studio-03.jpg": {
+    "w": 1333,
+    "h": 2000
+  },
+  "/images/home/studio-04.jpg": {
+    "w": 1335,
+    "h": 2000
+  },
+  "/images/og/og-cover.jpg": {
+    "w": 1333,
+    "h": 2000
+  },
+  "/images/portfolio/intro.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/portfolio/section-fashion.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/portfolio/section-studio.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/portfolio/section-weddings.jpg": {
+    "w": 3200,
+    "h": 2129
+  },
+  "/images/studio/bold-studio/01.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/studio/bold-studio/02.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/studio/bold-studio/03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/bold-studio/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/bold-studio/05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/character-studio/01.jpg": {
+    "w": 1800,
+    "h": 1800
+  },
+  "/images/studio/character-studio/02.jpg": {
+    "w": 1800,
+    "h": 1800
+  },
+  "/images/studio/character-studio/03.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/studio/character-studio/04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/studio/studio-colour/01.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-colour/02.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-colour/03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-colour/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-colour/05.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/01.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/02.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/studio/studio-noir/06.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/caro/arrival-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/arrival-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/arrival-03.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/arrival-04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/arrival-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/arrival-06.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/arrival-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1197
+  },
+  "/images/weddings/caro/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1197
+  },
+  "/images/weddings/caro/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/ceremony-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/ceremony-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/ceremony-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/ceremony-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/cover.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/weddings/caro/details-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/details-02.jpg": {
+    "w": 1800,
+    "h": 1150
+  },
+  "/images/weddings/caro/evening-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/evening-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/evening-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/evening-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/evening-05.jpg": {
+    "w": 1800,
+    "h": 1197
+  },
+  "/images/weddings/caro/portraits-01.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/portraits-03.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-05.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-06.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/portraits-08.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/caro/portraits-09.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/caro/portraits-10.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/debra/arrival-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-06.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/debra/celebration-07.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/celebration-08.jpg": {
+    "w": 1800,
+    "h": 1013
+  },
+  "/images/weddings/debra/celebration-09.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/cover.jpg": {
+    "w": 2000,
+    "h": 1324
+  },
+  "/images/weddings/debra/portraits-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1192
+  },
+  "/images/weddings/debra/portraits-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/portraits-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/debra/portraits-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/magaliesberg/arrival-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-02.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/magaliesberg/arrival-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-06.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-08.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-09.jpg": {
+    "w": 1800,
+    "h": 1148
+  },
+  "/images/weddings/magaliesberg/arrival-10.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-11.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/arrival-12.jpg": {
+    "w": 1800,
+    "h": 1197
+  },
+  "/images/weddings/magaliesberg/arrival-13.jpg": {
+    "w": 1800,
+    "h": 1197
+  },
+  "/images/weddings/magaliesberg/arrival-14.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1013
+  },
+  "/images/weddings/magaliesberg/celebration-06.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-08.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-09.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-10.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-11.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/celebration-12.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-04.jpg": {
+    "w": 1800,
+    "h": 1013
+  },
+  "/images/weddings/magaliesberg/ceremony-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-06.jpg": {
+    "w": 1800,
+    "h": 1013
+  },
+  "/images/weddings/magaliesberg/ceremony-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/ceremony-08.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/cover.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/weddings/magaliesberg/details-01.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/magaliesberg/details-02.jpg": {
+    "w": 1800,
+    "h": 1099
+  },
+  "/images/weddings/magaliesberg/details-03.jpg": {
+    "w": 1800,
+    "h": 1013
+  },
+  "/images/weddings/magaliesberg/details-04.jpg": {
+    "w": 1800,
+    "h": 1090
+  },
+  "/images/weddings/magaliesberg/details-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-06.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/evening-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/portraits-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/magaliesberg/portraits-03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/magaliesberg/portraits-04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/magaliesberg/portraits-05.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sambo/arrival-01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/sambo/arrival-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/arrival-03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sambo/arrival-04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sambo/arrival-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/celebration-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-07.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/ceremony-08.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/sambo/ceremony-09.jpg": {
+    "w": 1800,
+    "h": 1218
+  },
+  "/images/weddings/sambo/ceremony-10.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/cover.jpg": {
+    "w": 2000,
+    "h": 1335
+  },
+  "/images/weddings/sambo/details-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/details-02.jpg": {
+    "w": 1800,
+    "h": 1012
+  },
+  "/images/weddings/sambo/details-03.jpg": {
+    "w": 1800,
+    "h": 1119
+  },
+  "/images/weddings/sambo/details-04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sambo/evening-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/evening-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/evening-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/portraits-01.jpg": {
+    "w": 1800,
+    "h": 1202
+  },
+  "/images/weddings/sambo/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1202
+  },
+  "/images/weddings/sambo/portraits-03.jpg": {
+    "w": 1800,
+    "h": 1202
+  },
+  "/images/weddings/sambo/portraits-04.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sambo/portraits-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/portraits-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/sambo/portraits-07.jpg": {
+    "w": 1202,
+    "h": 1800
+  },
+  "/images/weddings/sewela-bongani/arrival-01.jpg": {
+    "w": 1800,
+    "h": 1158
+  },
+  "/images/weddings/sewela-bongani/arrival-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/arrival-03.jpg": {
+    "w": 1800,
+    "h": 1159
+  },
+  "/images/weddings/sewela-bongani/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/ceremony-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/ceremony-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/ceremony-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/ceremony-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/cover.jpg": {
+    "w": 2000,
+    "h": 1331
+  },
+  "/images/weddings/sewela-bongani/details-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/details-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/details-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/details-04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/sewela-bongani/evening-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/evening-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/evening-03.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/evening-04.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/portraits-01.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/portraits-03.jpg": {
+    "w": 1200,
+    "h": 1800
+  },
+  "/images/weddings/sewela-bongani/portraits-04.jpg": {
+    "w": 1198,
+    "h": 1800
+  },
+  "/images/weddings/sewela-bongani/portraits-05.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/portraits-06.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/sewela-bongani/portraits-07.jpg": {
+    "w": 1800,
+    "h": 1198
+  },
+  "/images/weddings/thando/arrival-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/arrival-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/celebration-07.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/ceremony-01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/thando/ceremony-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/ceremony-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/ceremony-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/cover.jpg": {
+    "w": 2000,
+    "h": 1335
+  },
+  "/images/weddings/thando/evening-01.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-03.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/evening-07.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-01.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/thando/portraits-02.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-03.jpg": {
+    "w": 1201,
+    "h": 1800
+  },
+  "/images/weddings/thando/portraits-04.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-05.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-06.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-07.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-08.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-09.jpg": {
+    "w": 1800,
+    "h": 1201
+  },
+  "/images/weddings/thando/portraits-10.jpg": {
+    "w": 1800,
+    "h": 1201
+  }
+}

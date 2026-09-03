@@ -1,0 +1,175 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+  --font-heading: var(--font-display);
+  --font-cursive: var(--font-script);
+  --color-ink: var(--background);
+  --color-paper: var(--foreground);
+  --color-beige: var(--beige);
+  --color-beige-light: #e7ddcd;
+  /* Brand accent sampled from the supplied ASM logo. Used sparingly. */
+  --color-ember: #de4626;
+  --color-mist: #f4f3f1;
+  --color-sand: var(--sand);
+  --color-sand-deep: var(--sand-deep);
+  /* Always dark, regardless of site theme — for text-on-photo legibility scrims. */
+  --color-scrim: #0b0b0b;
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+/* Light theme (default :root, used when next-themes hasn't added .dark) */
+:root {
+  --background: #fbf7f1;
+  --foreground: #332e27;
+  --card: #ffffff;
+  --card-foreground: #332e27;
+  --popover: #ffffff;
+  --popover-foreground: #332e27;
+  --primary: #b8935f;
+  --primary-foreground: #fbf7f1;
+  --secondary: #f2ebe1;
+  --secondary-foreground: #332e27;
+  --muted: #f2ebe1;
+  --muted-foreground: #756c60;
+  --accent: #b8935f;
+  --accent-foreground: #fbf7f1;
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0 0 0 / 8%);
+  --input: oklch(0 0 0 / 12%);
+  --ring: #b8935f;
+  --sand: #e6d8c4;
+  --sand-deep: #d9c5a8;
+  /* Deepened on the cream ground so small caps labels stay legible (4.5:1+). */
+  --beige: #8c6a38;
+  --radius: 0.25rem;
+}
+
+/* Dark theme (applied by next-themes as a class on <html>) */
+.dark {
+  --background: #0b0b0b;
+  --foreground: #f7f5f2;
+  --card: #131313;
+  --card-foreground: #f7f5f2;
+  --popover: #131313;
+  --popover-foreground: #f7f5f2;
+  --primary: #b9986b;
+  --primary-foreground: #0b0b0b;
+  --secondary: #1c1c1c;
+  --secondary-foreground: #f7f5f2;
+  --muted: #1c1c1c;
+  --muted-foreground: #9a978f;
+  --accent: #b9986b;
+  --accent-foreground: #0b0b0b;
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: #b9986b;
+  --sand: #262220;
+  --sand-deep: #322c27;
+  --beige: #c2a276;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans scroll-smooth;
+  }
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+    font-feature-settings: "ss01" 1, "case" 1;
+  }
+  ::selection {
+    background-color: var(--color-beige);
+    color: #0b0b0b;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display font-light;
+    letter-spacing: -0.015em;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  /* Small uppercase label — the site's only "UI" typographic voice. */
+  .label {
+    @apply font-sans text-[0.625rem] uppercase leading-none tracking-[0.28em] sm:text-[0.6875rem];
+  }
+  .editorial-rule {
+    @apply h-px w-full bg-current opacity-15;
+  }
+  /* Grabbable surfaces (hero carousel) shouldn't select text while dragging. */
+  .drag-surface {
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+}
+
+/*
+ * Animation philosophy: slow, controlled, cinematic. Anyone who has asked their
+ * OS for less motion gets the layout with none of the movement.
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
